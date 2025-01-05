@@ -1,0 +1,4 @@
+.lock*
+a.out
+*.elf
+*.bin
