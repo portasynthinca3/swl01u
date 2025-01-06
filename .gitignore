@@ -1,4 +1,4 @@
 .lock*
 a.out
 *.elf
-*.bin
+fun/*.bin
